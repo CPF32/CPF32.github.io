@@ -151,7 +151,7 @@ input, select, textarea {
 		}
 
 	footer {
-		margin: 2em 0 0 0;
+		margin: 1em 0 0 0;
 	}
 
 	strong, b {
@@ -2218,7 +2218,8 @@ input, select, textarea {
 		}
 
 			#main > section.dark {
-				background-color: #bdc3c8;
+				color: #ddd;
+				color: rgba(255, 255, 255, 0.75);
 			}
 
 				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
@@ -2246,7 +2247,8 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #bdc3c8;
+				color: #ddd;
+				color: rgba(255, 255, 255, 0.75);
 			}
 
 			#main > section.two {
