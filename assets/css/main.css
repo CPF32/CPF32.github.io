@@ -1483,11 +1483,11 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 
-			#titlesig {
-				display: flex;
-				justify-content: center;
+			.resp-img {
+				height: auto;
+  			width: 100%;
 			}
-	
+
 			.row {
 				display: flex;
 				flex-wrap: wrap;
