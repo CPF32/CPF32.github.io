@@ -1966,7 +1966,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: : #ffffff;
+			background-color: #95b7f9;
 		}
 
 		input[type="button"]:active,
@@ -2218,8 +2218,8 @@ input, select, textarea {
 		}
 
 			#main > section.dark {
-				color: #ddd;
-				color: rgba(255, 255, 255, 0.75);
+				background: rgb(77,133,245);
+	      background: linear-gradient(180deg, rgba(77,133,245,1) 0%, rgba(149,183,249,1) 100%);
 			}
 
 				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
@@ -2247,8 +2247,8 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background: rgb(77,133,245);
+        background: linear-gradient(180deg, rgba(77,133,245,1) 0%, rgba(149,183,249,1) 100%);
 			}
 
 			#main > section.two {
